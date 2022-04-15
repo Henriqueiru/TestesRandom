@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\Projetos Randons\ProjetoDio\bin\Debug\net7.0\ProjetoDio.exe
+C:\Users\Usuário\Desktop\Projetos Randons\ProjetoDio\bin\Debug\net7.0\ProjetoDio.deps.json
+C:\Users\Usuário\Desktop\Projetos Randons\ProjetoDio\bin\Debug\net7.0\ProjetoDio.runtimeconfig.json
+C:\Users\Usuário\Desktop\Projetos Randons\ProjetoDio\bin\Debug\net7.0\ProjetoDio.dll
+C:\Users\Usuário\Desktop\Projetos Randons\ProjetoDio\bin\Debug\net7.0\ProjetoDio.pdb
+C:\Users\Usuário\Desktop\Projetos Randons\ProjetoDio\obj\Debug\net7.0\ProjetoDio.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\Projetos Randons\ProjetoDio\obj\Debug\net7.0\ProjetoDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\Projetos Randons\ProjetoDio\obj\Debug\net7.0\ProjetoDio.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\Projetos Randons\ProjetoDio\obj\Debug\net7.0\ProjetoDio.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\Projetos Randons\ProjetoDio\obj\Debug\net7.0\ProjetoDio.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Projetos Randons\ProjetoDio\obj\Debug\net7.0\ProjetoDio.dll
+C:\Users\Usuário\Desktop\Projetos Randons\ProjetoDio\obj\Debug\net7.0\refint\ProjetoDio.dll
+C:\Users\Usuário\Desktop\Projetos Randons\ProjetoDio\obj\Debug\net7.0\ProjetoDio.pdb
+C:\Users\Usuário\Desktop\Projetos Randons\ProjetoDio\obj\Debug\net7.0\ProjetoDio.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\Projetos Randons\ProjetoDio\obj\Debug\net7.0\ref\ProjetoDio.dll
